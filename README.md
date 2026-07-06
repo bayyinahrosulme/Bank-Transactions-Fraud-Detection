@@ -21,6 +21,5 @@ and AccountBalance.
   a potential money laundering case
 - **Fraudsters transact 3x higher** — avg fraud amount $772 vs 
   $252 legitimat
-- **SQL/PostgreSQL** — 5 exception queries across fraud rate, 
   velocity, off-hours, duplicates, and trend analysis
 - **Power BI** — single-page compliance-ready fraud operations dashboard
