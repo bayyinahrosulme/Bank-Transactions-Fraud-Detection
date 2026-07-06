@@ -22,4 +22,3 @@ and AccountBalance.
 - **Fraudsters transact 3x higher** — avg fraud amount $772 vs 
   $252 legitimat
   velocity, off-hours, duplicates, and trend analysis
-- **Power BI** — single-page compliance-ready fraud operations dashboard
