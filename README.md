@@ -20,5 +20,4 @@ and AccountBalance.
 - **Top flagged account** — 249 transactions totaling $103K, 
   a potential money laundering case
 - **Fraudsters transact 3x higher** — avg fraud amount $772 vs 
-  $252 legitimat
-  velocity, off-hours, duplicates, and trend analysis
+  $252 legitimate
